@@ -1,7 +1,7 @@
-
 public class bugModel {
 
-	public enum bugstate {	unconfirmed, newbug, assigned, resolved, reopened, 	verified,		closed }
+	public enum BugState {
+		UNCONFIRMED, NEWBUG, ASSIGNED, RESOLVED, REOPENED, VERIFIED, CLOSED
+	}
 
-	
 }
